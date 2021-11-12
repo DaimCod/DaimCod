@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m @DaimCod
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently studying Computer Science at University of Milan-Bicocca 
+- 👀 I’m interested in Full Stack Development, but I also enjoy programming in Java and I'm studying C++ as well as I think these 2 languages are a MUST for every programmer.
+- 🌱 I’m currently studying Computer Science at University of Milan-Bicocca
 
 <!---
 8
